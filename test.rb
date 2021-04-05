@@ -3,4 +3,4 @@ def leak_test
   test_num = 123456
 end
 
-copyright © HogeHoge.inc
+copyright © HogeHogeX.inc
